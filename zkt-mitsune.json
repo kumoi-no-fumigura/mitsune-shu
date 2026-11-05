@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 330,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-mitsune-0001",
@@ -4664,7 +4667,7 @@
   "blocks": 330,
   "chars": 7727,
   "poems": 330,
-  "yaku": 0,
+  "yaku": 330,
   "editions": 1,
   "updated": "2026-11-04",
   "updated_at": "2026-11-04T17:58:17+09:00"
